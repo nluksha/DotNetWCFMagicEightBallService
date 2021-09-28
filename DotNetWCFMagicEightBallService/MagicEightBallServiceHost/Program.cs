@@ -21,10 +21,9 @@ namespace MagicEightBallServiceHost
                 DisplayHost(serviceHost);
 
                 Console.WriteLine("The service is ready");
-                Console.WriteLine("Press th Enter key to terminate service.");
+                Console.WriteLine("Press the Enter key to terminate service.");
+                Console.ReadLine();
             }
-
-            Console.ReadLine();
         }
 
         static void DisplayHost(ServiceHost host)
