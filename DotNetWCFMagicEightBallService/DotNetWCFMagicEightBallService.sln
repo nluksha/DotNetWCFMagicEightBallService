@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31424.327
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetWCFMagicEightBallService", "DotNetWCFMagicEightBallService\DotNetWCFMagicEightBallService.csproj", "{B6F7F30F-173F-4F76-879F-1E02C18113AE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetWCFMagicEightBallServiceLib", "DotNetWCFMagicEightBallService\DotNetWCFMagicEightBallServiceLib.csproj", "{B6F7F30F-173F-4F76-879F-1E02C18113AE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
