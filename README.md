@@ -1,0 +1,2 @@
+# DotNetWCFMagicEightBallService
+.Net, WCF
